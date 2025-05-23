@@ -1,6 +1,6 @@
 ![logo](https://github.com/A4KASH-01/A4KASH-01/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm AKASH MAHMUD</h1>
-<h3 align="center">Dev Akash Mahmud | CSE Brain | Full Stack Crafter | UI Visionary | Digital Bug Slayer From Bangladesh </h3>
+<h3 align="center">This is Dev Akash Mahmud | CSE Brain | Full Stack Crafter | UI Visionary | Digital Bug Slayer From Bangladesh </h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=a4kash-01&label=Profile%20views&color=0e75b6&style=flat" alt="a4kash-01" /> </p>
 
